@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/changeLan"
+        android:title="@string/changeLanguage">
+        <menu>
+            <item
+                android:id="@+id/rusL"
+                android:title="@string/russianL" />
+            <item android:id="@+id/engL"
+                android:title="@string/englishL" />
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/chooseTypes"
+        android:title="@string/chooseTypesOfPosts">
+        <menu>
+            <group android:checkableBehavior="all">
+                <item
+                    android:id="@+id/posts"
+                    android:checked="true"
+                    android:title="@string/posts" />
+                <item
+                    android:id="@+id/newFriends"
+                    android:checked="true"
+                    android:title="@string/newFriends" />
+                <item
+                    android:id="@+id/newVideo"
+                    android:title="@string/newVideo" />
+                <item
+                    android:id="@+id/newPhoto"
+                    android:checked="true"
+                    android:title="@string/newPhoto" />
+            </group>
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/logOut"
+        android:title="@string/logOut">
+    </item>
+</menu>

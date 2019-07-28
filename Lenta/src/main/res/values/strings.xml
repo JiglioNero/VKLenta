@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VKLenta</string>
+    <integer name="com_vk_sdk_AppId">6404090</integer>
+    <string name="textForNewPhoto">new photo.</string>
+    <string name="textForNewVideo">new video.</string>
+    <string name="changeLanguage">Change language</string>
+    <string name="logOut">Log out</string>
+    <string name="friendGreetings">Hi! Im you new friend!</string>
+    <string name="russianL">Russian</string>
+    <string name="englishL">English</string>
+    <string name="chooseTypesOfPosts">Choose types of posts</string>
+    <string name="posts">post</string>
+    <string name="newFriends">new friends</string>
+    <string name="newPhoto">new photo</string>
+    <string name="newVideo">new video</string>
+</resources>

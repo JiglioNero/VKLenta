@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ВКЛента</string>
+    <integer name="com_vk_sdk_AppId">6404090</integer>
+    <string name="textForNewPhoto">новых фото.</string>
+    <string name="textForNewVideo">новых видео.</string>
+    <string name="changeLanguage">Сменить язык</string>
+    <string name="logOut">Сменить пользователя</string>
+    <string name="friendGreetings">Привет! Я твой новый друг!</string>
+    <string name="russianL">Русский</string>
+    <string name="englishL">Английский</string>
+    <string name="chooseTypesOfPosts">Выберите типы новостей</string>
+    <string name="posts">посты</string>
+    <string name="newFriends">новые друзья</string>
+    <string name="newPhoto">новые фотографии</string>
+    <string name="newVideo">новые видеозаписи</string>
+</resources>
